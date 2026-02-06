@@ -27,5 +27,9 @@ main{
     clear: left;
 }
 header h3{
-    margin-top: 105%;
+    margin-top: 3em;
+    font-size: 105%
+}
+{
+    
 }
