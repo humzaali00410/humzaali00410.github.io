@@ -57,7 +57,14 @@ main h3{
     padding: 0.5em;
 }
 main nav{
-
+margin-top: 1.5em;
+margin-right: 2em;
+margin-left: 2em;
+margin-bottom: 1.5em;
+border: 5px dashed;
+border-radius: 20px;
+box-shadow: 3px 3px 4px 4px red;
+padding: 0.5em;
 }
 main div.contact{
     margin: 1.5em 2em 0 2em; 
