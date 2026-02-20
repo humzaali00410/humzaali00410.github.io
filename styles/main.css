@@ -9,7 +9,8 @@ body{
     border-radius: 25px;
     box-shadow: 5px 5px 0 0 ;
     background-image: url("../images/gear-small-md.png");
-    background-position: top left;
+    background-position: 90% 90%;
+    background-repeat: no-repeat;
 }
 a:hover, a:focus {
     font-style: italic;
