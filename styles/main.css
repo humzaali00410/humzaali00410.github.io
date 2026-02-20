@@ -11,6 +11,7 @@ body{
     background-image: url("../images/gear-small-md.png");
     background-position: 95% 95%;
     background-repeat: no-repeat;
+    background-image: linear-gradient(to right, white 20%, orange 100%);
 }
 a:hover, a:focus {
     font-style: italic;
