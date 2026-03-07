@@ -15,8 +15,8 @@ body{
 a:hover, a:focus {
     font-style: italic;
     color: mediumaquamarine;
-    border-style: 3px blue;
-    border: dotted solid;
+    border: 3px solid blue;
+    border-style: dotted solid;
 }
 header {
     margin-bottom: 3em;
