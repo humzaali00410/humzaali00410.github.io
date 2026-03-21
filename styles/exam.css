@@ -23,12 +23,12 @@ article {
     column-rule: 2px dotted blue;
 }
 aside {
-    width: 250px;
+    width: 20px;
     position: fixed;
     right: 40px;
     top: 120px;
     background-color: lightblue;
-    border: solid black;
+    border: 1px solid black;
     padding: 10px;
 }
 #nav_menu{
