@@ -7,6 +7,9 @@ body {
     background-repeat: no-repeat;
     background-position: right top;
 }
+h1, h2 {
+    color: blue;
+}
 nav {
     width: 100%;
 }
