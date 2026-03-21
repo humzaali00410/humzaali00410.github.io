@@ -23,6 +23,9 @@ aside {
     position: fixed;
     right: 2%;
     top: 80px;
+    background-color: white;
+    border: solid black;
+    padding: 10px;
 }
 #nav_menu ul { 
     list-style-type: none; 
