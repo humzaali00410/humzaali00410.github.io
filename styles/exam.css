@@ -68,6 +68,9 @@ article img {
     margin: 10px;
     width: 150px;
 }
+aside ul {
+    list-style-type: square;
+}
 aside ol { 
     list-style-type: upper-roman; 
 }
