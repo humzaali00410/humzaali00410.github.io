@@ -31,6 +31,9 @@ aside {
     padding: 10px;
     
 }
+#nav_menu{
+    border-bottom: 2px solid blue;
+}
 #nav_menu ul { 
     list-style-type: none; 
 }
