@@ -104,10 +104,7 @@ footer {
     text-align: center;
     font-size: .8em;
 }
-
 @media(max-width: 700px){
-
-
 .menu-button-container{ 
  display: flex;
 }
